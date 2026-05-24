@@ -13,7 +13,7 @@ Current areas of work:
 - Distributed training infrastructure
 - Open-source software tooling
 - Solana network development
-- BorjaxCoin, a Solana-first token initiative
+- Ravfia Coin, a Solana-first token initiative
 
 ## Mission
 
