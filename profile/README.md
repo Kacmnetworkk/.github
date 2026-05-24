@@ -1,22 +1,23 @@
 # Kacm Network
 
-Kacm Network is a public open-source organization founded by Kurt Morales.
+Kacm Network is Kurt Morales' public open-source AI and Solana organization.
 
-We build and support technology across:
+We train world-class open-source language models and build infrastructure to coordinate distributed, unbiased training. We support unrestricted availability and use, and we work to advance both scientific and popular understanding of open language-model systems.
 
-- Open-source software
-- Developer tools and automation
-- Cryptocurrency systems
-- Web3 applications
-- Solana tooling
-- Modern web platforms
-- Computer science experiments from old technology to modern computing
+Current areas of work:
 
-Our work is guided by fastidious engineering: clear programs, useful repositories, public iteration, and futuristic software built from durable computing fundamentals.
+- Model architecture
+- Data synthesis
+- Fine-tuning
+- Reasoning
+- Distributed training infrastructure
+- Open-source software tooling
+- Solana network development
+- BorjaxCoin, a Solana-first token initiative
 
 ## Mission
 
-Build open technology that helps people create, learn, automate, and ship better software.
+Advance open-source language model capabilities and build public infrastructure for futuristic software, Web3 systems, and Solana-native applications.
 
 ## Links
 
