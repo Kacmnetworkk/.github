@@ -13,7 +13,6 @@ Current areas of work:
 - Distributed training infrastructure
 - Open-source software tooling
 - Solana network development
-- Ravfia Coin (RFCN), a Token-2022 Solana stable coin with 1B supply, 9 decimals, and revoked mint/freeze authorities
 
 - Metadata URI: `https://ravfia.online/metadata.json`
 
